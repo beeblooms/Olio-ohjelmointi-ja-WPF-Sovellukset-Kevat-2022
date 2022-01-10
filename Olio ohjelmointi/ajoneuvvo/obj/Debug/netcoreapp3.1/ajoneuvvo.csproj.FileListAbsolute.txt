@@ -1,0 +1,13 @@
+C:\Users\iiris.wahriz\source\repos\bloom\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio ohjelmointi\ajoneuvvo\bin\Debug\netcoreapp3.1\ajoneuvvo.exe
+C:\Users\iiris.wahriz\source\repos\bloom\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio ohjelmointi\ajoneuvvo\bin\Debug\netcoreapp3.1\ajoneuvvo.deps.json
+C:\Users\iiris.wahriz\source\repos\bloom\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio ohjelmointi\ajoneuvvo\bin\Debug\netcoreapp3.1\ajoneuvvo.runtimeconfig.json
+C:\Users\iiris.wahriz\source\repos\bloom\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio ohjelmointi\ajoneuvvo\bin\Debug\netcoreapp3.1\ajoneuvvo.runtimeconfig.dev.json
+C:\Users\iiris.wahriz\source\repos\bloom\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio ohjelmointi\ajoneuvvo\bin\Debug\netcoreapp3.1\ajoneuvvo.dll
+C:\Users\iiris.wahriz\source\repos\bloom\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio ohjelmointi\ajoneuvvo\bin\Debug\netcoreapp3.1\ajoneuvvo.pdb
+C:\Users\iiris.wahriz\source\repos\bloom\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio ohjelmointi\ajoneuvvo\obj\Debug\netcoreapp3.1\ajoneuvvo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iiris.wahriz\source\repos\bloom\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio ohjelmointi\ajoneuvvo\obj\Debug\netcoreapp3.1\ajoneuvvo.AssemblyInfoInputs.cache
+C:\Users\iiris.wahriz\source\repos\bloom\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio ohjelmointi\ajoneuvvo\obj\Debug\netcoreapp3.1\ajoneuvvo.AssemblyInfo.cs
+C:\Users\iiris.wahriz\source\repos\bloom\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio ohjelmointi\ajoneuvvo\obj\Debug\netcoreapp3.1\ajoneuvvo.csproj.CoreCompileInputs.cache
+C:\Users\iiris.wahriz\source\repos\bloom\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio ohjelmointi\ajoneuvvo\obj\Debug\netcoreapp3.1\ajoneuvvo.dll
+C:\Users\iiris.wahriz\source\repos\bloom\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio ohjelmointi\ajoneuvvo\obj\Debug\netcoreapp3.1\ajoneuvvo.pdb
+C:\Users\iiris.wahriz\source\repos\bloom\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio ohjelmointi\ajoneuvvo\obj\Debug\netcoreapp3.1\ajoneuvvo.genruntimeconfig.cache

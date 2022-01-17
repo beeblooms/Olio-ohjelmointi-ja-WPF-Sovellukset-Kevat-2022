@@ -1,0 +1,13 @@
+C:\Users\iiris.wahriz\source\repos\bloom\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olioohjelmointi\olioohjelmointi\harjoitus10\harjoitus12\bin\Debug\netcoreapp3.1\harjoitus12.exe
+C:\Users\iiris.wahriz\source\repos\bloom\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olioohjelmointi\olioohjelmointi\harjoitus10\harjoitus12\bin\Debug\netcoreapp3.1\harjoitus12.deps.json
+C:\Users\iiris.wahriz\source\repos\bloom\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olioohjelmointi\olioohjelmointi\harjoitus10\harjoitus12\bin\Debug\netcoreapp3.1\harjoitus12.runtimeconfig.json
+C:\Users\iiris.wahriz\source\repos\bloom\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olioohjelmointi\olioohjelmointi\harjoitus10\harjoitus12\bin\Debug\netcoreapp3.1\harjoitus12.runtimeconfig.dev.json
+C:\Users\iiris.wahriz\source\repos\bloom\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olioohjelmointi\olioohjelmointi\harjoitus10\harjoitus12\bin\Debug\netcoreapp3.1\harjoitus12.dll
+C:\Users\iiris.wahriz\source\repos\bloom\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olioohjelmointi\olioohjelmointi\harjoitus10\harjoitus12\bin\Debug\netcoreapp3.1\harjoitus12.pdb
+C:\Users\iiris.wahriz\source\repos\bloom\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olioohjelmointi\olioohjelmointi\harjoitus10\harjoitus12\obj\Debug\netcoreapp3.1\harjoitus12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iiris.wahriz\source\repos\bloom\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olioohjelmointi\olioohjelmointi\harjoitus10\harjoitus12\obj\Debug\netcoreapp3.1\harjoitus12.AssemblyInfoInputs.cache
+C:\Users\iiris.wahriz\source\repos\bloom\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olioohjelmointi\olioohjelmointi\harjoitus10\harjoitus12\obj\Debug\netcoreapp3.1\harjoitus12.AssemblyInfo.cs
+C:\Users\iiris.wahriz\source\repos\bloom\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olioohjelmointi\olioohjelmointi\harjoitus10\harjoitus12\obj\Debug\netcoreapp3.1\harjoitus12.csproj.CoreCompileInputs.cache
+C:\Users\iiris.wahriz\source\repos\bloom\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olioohjelmointi\olioohjelmointi\harjoitus10\harjoitus12\obj\Debug\netcoreapp3.1\harjoitus12.dll
+C:\Users\iiris.wahriz\source\repos\bloom\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olioohjelmointi\olioohjelmointi\harjoitus10\harjoitus12\obj\Debug\netcoreapp3.1\harjoitus12.pdb
+C:\Users\iiris.wahriz\source\repos\bloom\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olioohjelmointi\olioohjelmointi\harjoitus10\harjoitus12\obj\Debug\netcoreapp3.1\harjoitus12.genruntimeconfig.cache

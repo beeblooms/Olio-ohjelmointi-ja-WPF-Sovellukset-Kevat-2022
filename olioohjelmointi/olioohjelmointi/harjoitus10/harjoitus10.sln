@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kokoelmat", "kokoelmat\koko
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "harjoitus 11", "harjoitus 11\harjoitus 11.csproj", "{3368C601-F6E9-4249-9D8A-00ADDFF6F114}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "harjoitus12", "harjoitus12\harjoitus12.csproj", "{9FAED014-028A-4CF8-8B32-0FB29A6FBFD0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{3368C601-F6E9-4249-9D8A-00ADDFF6F114}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3368C601-F6E9-4249-9D8A-00ADDFF6F114}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3368C601-F6E9-4249-9D8A-00ADDFF6F114}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FAED014-028A-4CF8-8B32-0FB29A6FBFD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FAED014-028A-4CF8-8B32-0FB29A6FBFD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FAED014-028A-4CF8-8B32-0FB29A6FBFD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FAED014-028A-4CF8-8B32-0FB29A6FBFD0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
